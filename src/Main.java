@@ -12,7 +12,7 @@ public class Main {
         try {
             miCuenta.retirar(2300);
         } catch (Exception e) {
-            System.out.print("Fallo al retirar");
+            System.out.print("Fallo al retirar el dinero");
         }
         try {
             System.out.println("Ingreso en cuenta");
